@@ -69,7 +69,7 @@ section{
   margin-bottom: 0px;
   margin-right: 35px;
   margin-left: 35px;
-  background-color: #ffffff;
+  background-color: #eaeaea;
   color: #777;
   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 18px;
@@ -85,14 +85,15 @@ section{
 
 }
 
-.bottom: {
-    background-color: #ffffff;
+.bottom {
+    background-color: #eaeaea;
     font-size: 18px;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
     margin-right: 35px;
     margin-left: 35px;
-}
+
+  }
 
 
 .aside {
